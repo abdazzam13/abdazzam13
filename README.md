@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Abdullah Azzam**.
+
+Saya seorang calon **Android Developer**.
+
+Saya sedang mengikuti kegiatan Bangkit Academy 2022 - Android Learning Path.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdullah-azzam-865a661b7/)ku ya.
