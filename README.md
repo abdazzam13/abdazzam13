@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=pemeluksenja&style=flat)\
+![](https://komarev.com/ghpvc/?username=pemeluksenja&style=flat)
 
 Let me introduce myself. My name is **Abdullah Azzam**. 
 - 🔭 I'm a college student at State University of Jakarta. My major is Computer Science.
