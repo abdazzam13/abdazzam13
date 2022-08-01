@@ -21,9 +21,10 @@ Let me introduce myself. My name is **Abdullah Azzam**.
 - 🌱 I’m currently learning Android and Back-End.
 - 📫 How to reach me: abdullah.azzam130@gmail.com.
 - 😄 Pronouns: He/His/Him.
-- ⚡ Fun fact: I got enrolled at Bangkit Academy 2022 - Android Learning Path!!
+- ⚡ Fun fact: I am a gradute Bangkit Academy 2022 - Android Learning Path!!
+- 🥳 I am now a Google Certified Associate Android Developer!
 
-If you interested to get to know me, you can reach me via this link [Linkedin](https://www.linkedin.com/in/abdullah-azzam-865a661b7/)^^
+If you interested to get to know me, you can reach me via this link [Linkedin](https://www.linkedin.com/in/abdullah-azzam-/)^^
 
 <p align="left">
 <a href="https://github.com/pemeluksenja">
