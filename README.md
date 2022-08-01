@@ -24,7 +24,7 @@ Let me introduce myself. My name is **Abdullah Azzam**.
 - ⚡ Fun fact: I am a gradute Bangkit Academy 2022 - Android Learning Path!!
 - 🥳 I am now a Google Certified Associate Android Developer!
 
-If you interested to get to know me, you can reach me via this link [Linkedin](https://www.linkedin.com/in/abdullah-azzam-/)^^
+If you interested to get to know me, you can reach me via [Linkedin](https://www.linkedin.com/in/abdullah-azzam-/)^^
 
 <p align="left">
 <a href="https://github.com/pemeluksenja">
