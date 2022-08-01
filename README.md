@@ -29,6 +29,6 @@ If you interested to get to know me, you can reach me via this link [Linkedin](h
 <p align="left">
 <a href="https://github.com/pemeluksenja">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pemeluksenja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pemeluksenja&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pemeluksenja&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
