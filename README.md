@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=pemeluksenja&style=flat)
 
 Let me introduce myself. My name is **Abdullah Azzam**. 
-- 🔭 I'm a college student at State University of Jakarta. My major is Computer Science.
-- 🌱 I’m currently learning Android and Back-End.
+- 🔭 I'm a fresh graduate from State University of Jakarta. My major is Computer Science.
+- 🌱 I’m currently an Android Developer at PT. Fhadira Inovasi Teknologi.
 - 📫 How to reach me: abdullah.azzam130@gmail.com.
-- 😄 Pronouns: He/His/Him.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a gradute Bangkit Academy 2022 - Android Learning Path!!
 - 🥳 I am now a Google Certified Associate Android Developer!
 
