@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 Let me introduce myself. My name is **Abdullah Azzam**. 
 - 🔭 I'm a fresh graduate from State University of Jakarta. My major is Computer Science.
-- 🌱 I’m currently an Android Developer at PT. Fhadira Inovasi Teknologi.
-- 📫 How to reach me: abdullah.azzam130@gmail.com.
+- 🌱 I’m currently a Mobile Developer at PT. Deptech Digital Indonesia.
+- 📫 How to reach me: azzam@deptechdigital.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a gradute Bangkit Academy 2022 - Android Learning Path!!
 - 🥳 I am now a Google Certified Associate Android Developer!
