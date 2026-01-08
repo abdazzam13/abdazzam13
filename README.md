@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 Let me introduce myself. My name is **Abdullah Azzam**. 
 - 🔭 I'm a Google-certified Associate Android Developer and Flutter Developer bringing 3+ years of specialized experience in crafting exceptional mobile applications. Combines technical expertise with a passion for building high-performance, scalable solutions that users love.
-Technical versatility extends across Flutter, Java, and Kotlin for mobile development, complemented by ReactJS, NextJS & Typescript proficiency for creating dynamic and responsive web interfaces. Thrives in collaborative, fast-paced environments while maintaining a commitment to continuous learning and technological advancement.
+- Technical versatility extends across Flutter, Java, and Kotlin for mobile development, complemented by ReactJS, NextJS & Typescript proficiency for creating dynamic and responsive web interfaces. Thrives in collaborative, fast-paced environments while maintaining a commitment to continuous learning and technological advancement.
 Known for exceptional adaptability and work ethic—capable of intensely focused productivity when project demands require it. Consistently delivers impactful solutions by balancing technical excellence with intuitive user experiences.
-
-I am familiar with GetX, RxJava, Retrofit2, Okhttp, MVVM, handling JSON with GSON, SQL Lite, Room DB, Firebase, Dio, LiveData dan Mutable Live Data, etc. I also familiar with Flutter, BloC, GetX, GoRouter, GetIt, SQLite, Shared Preference, Firebase, MongoDB, FCM (Push Notification), API, JSON, and Android Studio. I am open to learning any programming language and tools necessary, and a fast-learner too.
+- I am familiar with GetX, RxJava, Retrofit2, Okhttp, MVVM, handling JSON with GSON, SQL Lite, Room DB, Firebase, Dio, LiveData dan Mutable Live Data, etc. I also familiar with Flutter, BloC, GetX, GoRouter, GetIt, SQLite, Shared Preference, Firebase, MongoDB, FCM (Push Notification), API, JSON, and Android Studio. I am open to learning any programming language and tools necessary, and a fast-learner too.
 - 🌱 I’m currently a Mobile & Frontend Developer at PT. Finpoint Solusi Indonesia!
 - 📫 How to reach me: abdullah.azzam130@gmail.com
 - 😄 Pronouns: He/Him.
